@@ -10,6 +10,4 @@ Uhh, hello there! I'm Sophia, as you probably know, and I'm a self-proclaimed co
 ## Links
 You can find me here!
 
-<a href="https://transfem.social/@meanbeansoph" rel=me>Sharkey</a>  
-<a rel="me" href="https://critter.cafe/@meanbeansoph">Mastodon</a>  
-[Bluesky](https://bsky.app/profile/soph.nya.je)  
+<a href="https://transfem.social/@meanbeansoph" rel=me>Sharkey</a> || <a rel="me" href="https://critter.cafe/@meanbeansoph">Mastodon</a> || [Bluesky](https://bsky.app/profile/soph.nya.je)  
