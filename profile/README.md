@@ -2,11 +2,9 @@
 
 Uhh, hello there! I'm Sophia, as you probably know, and I'm a self-proclaimed coder who can't code for shit, but tries her best to :3
 ## Currently learning:
-### Nothing as of now actually due to me taking a break but planning on learning:
-- The Holy Trinity of Web (HTML, CSS, JavaScript)
+- HTML, CSS, JavaScript
 - Lua
 - Python
-- Ruby (maybe)
 ## Links
 You can find me here!
 
